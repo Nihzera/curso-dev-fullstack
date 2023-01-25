@@ -1,0 +1,21 @@
+body{
+    background: #dfdfdf;
+}
+
+p{
+    color: #222222;
+}
+
+.foto{
+    width: 200;
+    /*border: 3px solid rgb(255, 255, 255); /*shorthand*/
+    border-radius: 50% 50% 50% 50%;
+    
+    border-width: 3px;
+    border-top-style: hidden;
+    border-bottom-style: hidden;
+    border-left-style: inset;
+    border-right-style: dotted;
+    border-color: black;
+    
+}
